@@ -1,0 +1,62 @@
+[00:08.25]Our smartphones, tablets, laptops—they all compute things electronically. 
+[00:11.78]我们的智能手机、平板电脑、笔记本——它们都是以电子方式进行计算。
+[00:12.45]But, think outside that silicon box for a second: 
+[00:15.00]但是，考虑一下那个箱子之外的事物：
+[00:15.58]"There's nothing special about electrons and using silicon as part of computing." 
+[00:20.02]“利用电子和硅进行计算并没有什么特殊的。” 
+[00:21.73]Chris Voigt, a bioengineer at M.I.T.. "
+[00:23.70]克里斯?沃伊特是麻省理工学院的生物工程师。
+[00:24.35]You can do computing with any number of things." Including, he says, DNA.
+[00:28.24]“你可以利用计算机计算任何事物的数量。”这其中，就包括DNA。
+[00:28.85]"Cells do computing all the time. 
+[00:30.35]“细胞一直都在进行计算。
+[00:31.21]So they're constantly trying to interpret their environment 
+[00:34.95]所以，它们一直在试图了解周围的环境，
+[00:35.77]and be able to turn on different genes and respond to it." 
+[00:38.93]并控制DNA，并对其作出反应。”
+[00:39.53]And those genes in a cellular circuit 
+[00:40.66]这些在细胞电路中的基因就像
+[00:41.39]are like the logic gates, the memory, and other systems found in conventional computers. 
+[00:45.65]传统电脑中的逻辑门、内存和其他的系统。
+[00:46.56]So Voigt and his colleagues created what he calls the first human-made "programming language" for living cells. 
+[00:52.72]所以，沃伊特和同事们创造了人类首例的活细胞“编程语言”。
+[00:53.33]It’s an open-source design environment called "Cello." 
+[00:55.09]这种开放源码的设计环境称为“Cello”。
+[00:55.81]Just write what you want the cell to do, 
+[00:57.26]你只需写下需要细胞做些什么，
+[00:58.00]and Cello spits out the DNA sequence—
+[00:59.05]这时候Cello翻译DNA序列
+[01:00.01]as if you were compiling code. 
+[01:01.15]就好像你在进行编码。
+[01:01.93]The researchers used the platform to design 60 genetic circuits, 
+[01:05.17]研究人员利用这一平台设计了60个遗传电路，
+[01:05.91]which they then ran inside E. coli bacteria. 
+[01:07.57]他们可以利用这些遗传电路应用于大肠杆菌内部。
+[01:08.74]Many of these DNA-based circuits allow bacteria to sense environmental data - 
+[01:12.04]许多基于DNA的电路都允许细菌感觉环境数据
+[01:12.89]like levels of oxygen or glucose in the gut - and respond in various ways. 
+[01:17.27]例如大肠中的氧气以及葡萄糖的含量——并通过不同的方式作出反应
+[01:18.23]They detail the findings in the journal Science. 
+[01:20.41]该研究结果发表在《科学》杂志上。
+[01:21.50]Not all the circuits worked as intended. 
+[01:23.27]但是并不是所有的电路都会按照预期的方式运行。
+[01:24.11]A quarter of them failed, and some were toxic to the cells. 
+[01:26.76]有1/4的电路失败了，而有的电路则会毒害细胞。
+[01:27.76]But the idea is to make cellular circuit design easier—and more approachable—to creative people. 
+[01:32.91]但是，这种创作想法会使有创新精神的人将细胞电路设计更加简单——更易成功。
+[01:33.66]"When I was a graduate student
+[01:34.81]“当我还在读研究生的时候，
+[01:35.31] I had a computer file for Microsoft Word that had all my favorite pieces of DNA. 
+[01:39.44]我有一个电脑文件里面包含了我最爱的DNA片段。
+[01:40.93]And I would have to sit there and stitch it together 
+[01:42.93]我会坐在那里，将这些片断拼接到一起，
+[01:43.52]and try to remember how each one worked, 
+[01:45.24]并试图记住这些片断是如何运作的，
+[01:45.98]and constantly run programs to try to look for mistakes."
+[01:48.73]我还经常运行程序试图找到其中的错误。”
+[01:49.56]Cello takes care of all that. 
+[01:50.57]Cello会处理以上所有的问题。
+[01:51.35]And now, Voigt says, biology is right about where electrical engineering was in the early 80s: 
+[01:56.65]现在，沃伊特称生物学就像80年代早期的电器工程：
+[01:57.36]ready for a computing revolution.
+[01:58.58]已经为计算机革命做好准备。
